@@ -19,3 +19,6 @@
     $ cd barus
     $ git pull
     $ python barus.py
+
+# Key Trial
+HEKYV-BBWYH-CVNKE-DGUPL
