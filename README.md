@@ -21,4 +21,4 @@
     $ python barus.py
 
 # Key Trial
-HEKYV-BBWYH-CVNKE-DGUPL
+    HEKYV-BBWYH-CVNKE-DGUPL
