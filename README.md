@@ -6,7 +6,13 @@
     $ pkg install python
     $ pkg install git
     $ pip install requests
-    $ git clone https://github.com/RozhakXD/Convert
-    $ cd Convert
+    $ pip install stdiomask
+    $ pip install bs4
+    $ pip install simplejson
+    $ pip install requests
+    $ pip install futures
+    $ pip install rich
+    $ git clone https://github.com/jepribarus/barus
+    $ cd barus
     $ git pull
-    $ python Run.py
+    $ python barus.py
