@@ -4,6 +4,13 @@
 <img src="https://i.ibb.co/jHXhfg9/1650294109977.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
+
+# WARNING
+    •Jika Pakai WiFi harap Slalu mainkan mode pesawat
+    •Wifi gampang kena spam ip
+    • Hasil Crack Tidak Ada/Tidak Banyak
+    •Di sarankan memakai Data Seluler
+
 # Use Install
     $ pkg update && upgrade
     $ pkg install python
@@ -21,4 +28,4 @@
     $ python barus.py
 
 # Key Trial
-    HEKYV-BBWYH-CVNKE-DGUPL
+    JSIGX-VTXMO-IGGNJ-MGAEL
